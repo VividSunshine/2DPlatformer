@@ -253,8 +253,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &230431215
 GameObject:
   m_ObjectHideFlags: 0
@@ -1217,7 +1215,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1310,8 +1307,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &625318696
 GameObject:
   m_ObjectHideFlags: 0
@@ -1702,7 +1697,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &819860760
 GameObject:
   m_ObjectHideFlags: 0
@@ -1844,12 +1838,9 @@ GameObject:
   - component: {fileID: 831529210}
   - component: {fileID: 831529209}
   - component: {fileID: 831529207}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 831529211}
   - component: {fileID: 831529212}
   - component: {fileID: 831529213}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1944,10 +1935,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 831529206}
   serializedVersion: 2
-<<<<<<< Updated upstream
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 3, z: 0}
-=======
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -2177,7 +2166,6 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7, y: -1, z: 0}
->>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2847,12 +2835,9 @@ SceneRoots:
   - {fileID: 1854965356}
   - {fileID: 819860763}
   - {fileID: 929101999}
-<<<<<<< Updated upstream
-=======
   - {fileID: 307625378}
   - {fileID: 1602029573}
   - {fileID: 1971397719}
   - {fileID: 767172735}
   - {fileID: 469423084}
   - {fileID: 671783532}
->>>>>>> Stashed changes
